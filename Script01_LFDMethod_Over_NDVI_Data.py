@@ -128,7 +128,6 @@ date = pd.period_range(start="1982-01-01", end="2017-12-31",freq="M")
 
 # Call LFD method and apply it for axis = 0 (time axis)
 OG, OD, OG_ndviC, OD_ndviC, peak_Timing, PearsonCorrelation = np.apply_along_axis(LFD_Over_Pixels, 0, ndvi_m, date)
-
 # Store the outputs for further use
 np.savez('#Outputs/3_LFD_Results_AVHRR', 
         OG = OG, OD = OD, 
