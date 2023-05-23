@@ -1,7 +1,5 @@
 """
 Created on Wednsday Sep 28 08:00:00 2022
-Revised on Tuesday May 23 13:15:00 2023
-
 @author: Mehdi Rahmati
 E-mail: mehdirmti@gmail.com, m.rahmati@fz-juelich.de
 
@@ -47,8 +45,8 @@ Inputs and outputs of main functions:
 
 
 To be cited as: 
-Rahmati et al., 2023.The continuous increase in evaporative demand shortened the growing season of European ecosystems 
-in the last decade. Comunications Earth & Environement, XX, XX-XX. 
+Rahmati et al., 2022. Changes in evaporative demand exert more control over European growing 
+season length than soil moisture. Nature Climate Change, XX, XX-XX. 
 
 """
 import numpy as np
