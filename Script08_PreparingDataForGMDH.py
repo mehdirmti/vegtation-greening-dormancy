@@ -5,6 +5,7 @@ import matplotlib.pyplot as plt
 from sklearn.decomposition import PCA
 import warnings
 
+
 warnings.simplefilter('ignore', np.RankWarning)
 warnings.filterwarnings('ignore')
 
