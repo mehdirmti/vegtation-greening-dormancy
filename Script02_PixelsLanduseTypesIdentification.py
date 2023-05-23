@@ -7,6 +7,7 @@ from matplotlib import pyplot as plt
 # importing the User defined Function
 import UserDefined_Auxiliary_Functions as AuxiliaryFunctions 
 
+
 # read lat and lon data from one of used data
 nc = netCDF4.Dataset('#Outputs/#1 Data/ndvi-Euro-GIMMS.nc')
 lat = np.array(nc.variables['lat'])

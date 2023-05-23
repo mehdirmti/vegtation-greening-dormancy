@@ -4,6 +4,7 @@ import pandas as pd
 import seaborn as sb
 from matplotlib.colors import LogNorm
 
+
 # Read data
 data = np.load('#Outputs/9_GMDH_Results.npz' , allow_pickle=True)
 

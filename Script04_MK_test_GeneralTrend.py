@@ -1,6 +1,7 @@
 import numpy as np
 import pymannkendall as mk
 
+
 # define a function to apply MK test
 def Apply_MK_OverEachPixel(x):
     # allocate free space for the outputs
