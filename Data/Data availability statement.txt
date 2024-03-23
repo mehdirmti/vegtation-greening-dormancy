@@ -1,0 +1,17 @@
+Data availability
+Processed data can be accessed from https://doi.org/10.5281/zenodo.7962415. The
+GLDAS Vegetation Class/ Mask map is available at https://ldas.gsfc.nasa.gov/gldas/
+vegetation-class-mask. The original NDVI (Normalized Difference Vegetation Index)
+data from the Global Inventory Monitoring and Modelling System (GIMMS) and the
+Moderate Resolution Imaging Spectroradiometer (MODIS) can be accessed through
+direct communications with data provider (Dr. Stefan Kern from University of Hamburg,
+Germany). The NDVI data from Advanced Very High-Resolution Radiometer (AVHRR)
+is available in https://climatedataguide.ucar.edu/climate-data/ndvi-normalizeddifference-
+vegetation-index-noaa-avhrr. The reanalysis data for NASA Global Land Data
+Assimilation System (GLDAS) is accessible from https://ldas.gsfc.nasa.gov/gldas/gldasget-
+data. The reanalysis data of European Centre for Medium-Range Weather Forecasts
+(ECMWF) ERA5-Land is accessible form https://cds.climate.copernicus.eu/. The Global
+Land Evaporation Amsterdam Model (GLEAM) dataset can also be obtained from
+https://www.gleam.eu/. The in-situ measurement data from FLUXNET can be accessed
+from https://fluxnet.org/.
+For more information, check the main reference in the "Documentation" folder.
